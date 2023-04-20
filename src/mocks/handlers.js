@@ -6,3 +6,5 @@ export const handlers = [
     return res(ctx.json(data));
   }),
 ];
+
+export default handlers;
